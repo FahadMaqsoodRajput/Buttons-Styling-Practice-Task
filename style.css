@@ -1,0 +1,103 @@
+button{
+	cursor: pointer;
+	margin: 1em;
+	font-size: 20px;
+	color: #fff;
+}
+
+
+.cart-btn{
+	color: white;
+	background-color: #C83729;
+	width: 200px;
+	height: 60px;
+	font-weight: bold;
+	border: 1px solid #C83729; 
+}
+
+.cart-btn:hover{
+background-color: #ed4d50;
+}
+
+.start-btn{
+	color: #3B66F9;
+	background-color: #FCD836;
+	width: 120px;
+	height: 50px;
+	font-size: 22px;
+	border: 3px solid blue;
+	font-family: 'Gugi', cursive;
+}
+
+.start-btn:hover{
+	color:#FCD836;
+	background-color: blue;
+}
+
+#login-btn{
+	background:linear-gradient(120deg,#61D0CE,#AAD48B) ;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 140px;
+	border:none;
+	border-radius: 50px;
+	font-weight: bold;
+}
+
+#login-btn:hover{
+	background:linear-gradient(120deg, #AAD48B, #61D0CE) ;
+}
+
+
+#signup-btn{
+	color: #6B50E4;
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 120px;
+	font-size: 18px;
+	border: 3px solid #6B4DE4;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+#signup-btn:hover{
+	background-color: #6B50E4;
+	color: white;
+	border: 3px solid #fff;
+	
+}
+
+.subscribe-btn{
+	width: 180px;
+	height: 50px;
+	background-image: linear-gradient(to top, #f5a332, #fac733);
+	border-radius: 10px;
+	border:2.5px solid orange;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px grey;
+
+}
+
+.subscribe-btn:hover{
+	background-image: none;
+	background-color: #f5a332;
+}
+
+.twitter-btn{
+	background-color: #fff;
+	color: #38a1f3;
+	border:2px solid #38a1f3;
+	border-radius: 50px;
+	font-size: 1.2em;
+	padding: 10px 13px;
+}
+
+.twitter-btn:hover{
+	color:#fff;
+	background-color: #38a1f3;
+}
